@@ -1,6 +1,6 @@
-# y
+# JobList
 
-> kariyernet test projesi
+> joblist test projesi
 
 ## Build Setup
 
